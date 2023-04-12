@@ -1,0 +1,97 @@
+body{
+    background-color: #FFF4E0;
+}
+.side-bar{
+    font-family: 'Open Sans';
+    color: #4D4D4D;
+    background-color: #FFBF9B;
+    padding: 10px;
+    position: absolute;
+    margin: 50px;
+    top: 20px;
+    width: 350px;
+    padding: 30px 30px 50px
+}
+.profile-pic{
+    margin-right: 75px;
+    margin-left: 75px;
+}
+.github{
+    position: relative;
+    bottom: 4.5px;
+    left: 150px;
+    margin: auto;
+}
+.linkedin{
+    position: relative;
+    left: 120px;
+}
+.social-divider{
+    border-style: dotted none none;
+    border-width: 5px;
+    color: #FFF4E0;
+    width: 15%;
+}
+.skills{
+    position: relative;
+    margin-left: 25px;
+    line-height: .8;
+
+}
+.address{
+    line-height: .8;
+}
+.links{
+    margin-top: 30px;
+}
+.bar-divider{
+    border-color: #FFF4E0;
+    border: none
+    border-width: 2px;
+}
+.top-page{
+    background-color: #B46060;
+    margin-left: -15px;
+    margin-top: -15px;
+    margin-right: -15px;
+    position: relative;
+    height: 220px;
+}
+.caps-name{
+    font-family: 'Raleway';
+    font-weight: bold;
+    color: #4D4D4D;
+    font-size: 5vw;
+    position: absolute;
+    left: 650px;
+    top: 60px;
+}
+
+.block-container{
+    font-family: 'Open Sans';
+    background-color: #FFF4E0;
+    position: relative;
+    margin-left: 500px;
+}
+.block-caps-title{
+    font-family: 'Montserrat';
+    position: relative;
+    overflow: auto;
+    text-align: center;
+}
+.filled-title{
+    position: relative;
+    font-family: 'Montserrat';
+    overflow: auto;
+    text-align: center;
+}
+.profile-splitter{
+    border-color: #4D4D4D;
+    width: 15%;
+    border-width: 1px;
+}
+.splitter{
+    border-color: #4D4D4D;
+    border-width: 1px;
+}
+
